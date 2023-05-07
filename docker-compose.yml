@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: ranadheer0001/dev:latest
+    ports:
+      - "80:80"
