@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Define variables
-IMAGE_NAME="<your-docker-image-name>"
+IMAGE_NAME="ranadheer0001/dev"
 IMAGE_TAG="latest"
-CONTAINER_NAME="<your-container-name>"
+CONTAINER_NAME="ranadheer"
 
 # Pull the Docker image from Docker Hub
 docker pull "$IMAGE_NAME:$IMAGE_TAG"
