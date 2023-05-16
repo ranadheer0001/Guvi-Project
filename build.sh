@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-IMAGE_NAME="<your-docker-image-name>"
+IMAGE_NAME="ranadheer0001/dev"
 IMAGE_TAG="latest"
 
 # Build the Docker image
